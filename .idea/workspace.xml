@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7cf87397-3dc5-4efd-8c74-7b22e7edb7ba" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="springboot-demo" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\work\repository" />
+        <option name="mavenHome" value="D:/Program Files/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\Program Files\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cCCIPrepq7qYHHlnzupRvogUFt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/swagger/src/main/java/com/cofire/swagger" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.saveactions" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\liying\github\springboot-demo\swagger\src\main\java\com\cofire\swagger" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SwaggerApplication (1)">
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cofire.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DisruptorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="disruptor" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cofire.disruptor.DisruptorApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwaggerApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="swagger" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cofire.swagger.SwaggerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwaggerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="swagger" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cofire.disruptor.SwaggerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.DemoApplication" />
+      <item itemvalue="Spring Boot.DisruptorApplication" />
+      <item itemvalue="Spring Boot.SwaggerApplication" />
+      <item itemvalue="Spring Boot.SwaggerApplication (1)" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\ThinkPad\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7cf87397-3dc5-4efd-8c74-7b22e7edb7ba" name="Default Changelist" comment="" />
+      <created>1590023107121</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590023107121</updated>
+      <workItem from="1590023112794" duration="651000" />
+      <workItem from="1590023776339" duration="7119000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="159" key="#DisruptorApplication" timestamp="1590024574030">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="488" y="159" key="#DisruptorApplication/0.0.1920.1040@0.0.1920.1040" timestamp="1590024574030" />
+    <state x="414" y="178" width="1165" height="683" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590024826964">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="178" width="1165" height="683" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590024826964" />
+    <state x="690" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590030977798">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590030977798" />
+    <state x="662" y="387" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1590030875519">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="662" y="387" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1590030875519" />
+    <state x="740" y="278" key="FileChooserDialogImpl" timestamp="1590024409906">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1590024409906" />
+    <state width="1877" height="312" key="GridCell.Tab.0.bottom" timestamp="1590030875706">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="312" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590030875706" />
+    <state width="1877" height="312" key="GridCell.Tab.0.center" timestamp="1590030875706">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="312" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590030875706" />
+    <state width="1877" height="312" key="GridCell.Tab.0.left" timestamp="1590030875706">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="312" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590030875706" />
+    <state width="1877" height="312" key="GridCell.Tab.0.right" timestamp="1590030875706">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="312" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590030875706" />
+    <state width="1877" height="312" key="GridCell.Tab.1.bottom" timestamp="1590030875707">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="312" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590030875707" />
+    <state width="1877" height="312" key="GridCell.Tab.1.center" timestamp="1590030875707">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="312" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590030875707" />
+    <state width="1877" height="312" key="GridCell.Tab.1.left" timestamp="1590030875707">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="312" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590030875707" />
+    <state width="1877" height="312" key="GridCell.Tab.1.right" timestamp="1590030875707">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="312" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590030875707" />
+    <state x="490" y="178" key="Maven.ArtifactSearchDialog" timestamp="1590026199304">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="178" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590026199304" />
+    <state x="463" y="165" key="SettingsEditor" timestamp="1590028590060">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1590028590060" />
+    <state x="334" y="136" key="new project wizard" timestamp="1590024419513">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="136" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1590024419513" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1590028901243">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1590028901243" />
+  </component>
+</project>
